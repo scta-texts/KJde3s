@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 12</title>
+        <author>Petrus Hispanus</author>
+        <editor>Alonso</editor>
+        <respStmt>
+          <name>Ana Ferreira</name>
+          <resp>TEI Encoding</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 12</title>
+          <date when="2019-07-02">July 2, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-i3uy34">Alonso 1957</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-07-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+
+      </div>
+    </front>
+    <body>
+      <div>
+        <head>Capitulum 12</head>
+        <p>Set quoniam et de istis quecunque dicere oportebat convenientem acceperunt, ut arbitror, finem, laudare nos convenit qui est infinitorum nominum et sicut sanctum sanctorum, regem regnantium et regnatorem seculorum et in seculum, et adhuc ut dominum dominorum et deum deorum. Et primum quidem est dicendum quid quidem per se bonitatem esse arbitramur, quid autem regnum, quid autem dominationem, quid autem deitatem et quid volunt monstrare eloquia dupplicatione nominum.</p>
+        <p>Igitur sanctitas quidem est, ut secundum nos dicatur, ab omni inmunditia libera et perfecta et omnino inmaculata munditia. Regnum autem, omnis finis et ornatus et legis et ordinis distributio. Dominatio autem non peiorum excessus tantum set omnis et pulchrorum et bonorum perfecta et omnimoda possessio et vera et cadere non valens fortitudo. Unde et ab eo quod dominium, dicitur dominator et dominans et dominus. Deitas autem que omnia videt providentia et bonitate perfecta, omnia circumspiciens et continens
+          et se ipsa implens et excedens omnia providentia ipsa utentia. Igitur hec quidem in causa excedente omnia absolute laudare convenit. Et addendum est ipsam esse excedentem sanctitatem et dominationem et regnum superpositum et simplicissimam deitatem. Etenim ex ipso in uno collective subsistit et distributiva est omnis munda diligentia. Omnis munditie clare omnis existentium et ordinatio et ornatus inconvenientiam inequalitatem inconmensurationem exterminans et ad bene ordinatam ydemptitatem et directionem exultans et circumagens participatione ipsius que sunt digna habita. Omnis perfecta et omnium pulchrorum perfecta possessio omnis bona providentia contemplativa contentiva provisorum se ipsam benigne tribuens ad deificationem ad se conversorum.</p>
+        <p>Quoniam autem superplenus est omnibus qui est omnium causa secundum unum omnia excedentem excessum sanctus sanctorum laudatur et reliqua secundum supermanantem causam et segregatum excessum. Sicut aliquis dicat: in quantum excellunt non existentibus existentia sancta aut divina aut dominia aut regalia et rursus participantibus participationes, in tantum collocatur super omnia existentia et omnium participantium et participationum inparticipabilis causa. Sanctos autem et reges et dominos vocant eloquia in singulis principaliores ornatus, per quos secundi ex Dei donis accipientes illorum distributionis simplicitatem circa sui ipsorum differentias multiplicant. Quorum varietatem prime provisive et deiformiter ad unitatem sui ipsorum congregant.</p>
+              </div>
+    </body>
+  </text>
+</TEI>

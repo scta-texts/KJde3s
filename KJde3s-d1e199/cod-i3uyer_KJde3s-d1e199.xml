@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 11</title>
+        <author>Petrus Hispanus</author>
+        <editor>Alonso</editor>
+        <respStmt>
+          <name>Ana Ferreira</name>
+          <resp>TEI Encoding</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 11</title>
+          <date when="2019-0-02">July 2, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-i3uy34">Alonso 1957</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-07-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+
+      </div>
+    </front>
+    <body>
+      <div>
+        <head >Capitulum 11</head>
+        <p>Age igitur, divinata et principem congregationis pacem ymnis pacificis laudemus. Ipsa enim est omnium unitiva et universorum consensus et connaturalitatis generativa et operativa. Propter quod et omnia desiderant divisibilem ipsorum multitudinem convertentem ad totam unitatem, et naturale omnis rei bellum unientem ad conformem cohabitationem participatione divine pacis, digniores congregatarum virtutum et ipse ad se ipsas et ad alias invicem uniuntur et ad unum totorum pacis principatum et subiecta uniuntur et ipsa et ad se ipsa et ad alia invicem et ad unum et perfectum omnium pacis principium et causam. Que simpliciter superveniens totis sicut quibusdam vectibus diversorum conclusivis omnia diffinit et terminat et firmat et non sinit divisa effundi ad interminatum et infinitum. Inordinata et non collocata et deserta a Deo facta et ad invicem sui ipsorum existentia et se invicem omni mixtione conspersa.</p>
+        <p>Igitur de ipsa quidem divina pace quodcunque est et scilentio quod sanctus Iustus et ineffabilitatem vocat et ad omnem cognitum processum inmobilitatem et quomodo quiescit et scilentium agit et quomodo in se ipsa et intra se ipsam est et ad se ipsam totam, et tota superunita est, et neque ad se ipsam ingrediens et multiplicans se ipsam, derelinquit sui ipsius unitionem, set et procedit ad omnia, intus tota manens, per excessum omnia superantis unitionis neque dicere neque cogitare alicui existentium neque fas est neque possibile, set sicut ineffabile et hoc ignotum sibi ipsi attribuentes, sicut existenti supra omnia, intelligibiles ipsius et dictas participationes, et hoc ut possibile est viris et nobis a multis viris bonis deficientibus inspiciemus.</p>
+        <p>Et primum quidem hoc est dicendum quod ipse per se pacem et totam et particularem subsistere facit et quod omnia ad se invicem concreta facit secundum inconfusam ipsarum unitioniem. Secundum quam indivisibiliter unita et indistanter, tamen pura singula secundum propriam speciem subsistant, non velata per concretionem ad opposita, non habentia aliquid unitive diligentie et puritatis, unam igitur quandam et simplicem pacifice unionis contemplemur naturam unientem universa sibi ipsi et illis ipsis et sibi invicem et salvantem omnia non inconfusa omnium continentia et inmixta et concreta. Propter quam divine mentes unite intellectualibus suis uniuntur et unitis rursus ad ignota ascendunt super collocatorum conversionem.</p>
+        <p>Propter quam anime largissimas ipsarum rationes unientes, ad unam intellectualem et congregantes puritatem, perveniunt, iuxta proprietatem suam, via et ordine per inmaterialem et simplicem intellectum, ad eam que est super intellectum unitionem. Propter quam una et indissolubilis omnium conplexio secundum divinam sui ipsius armoniam subsistit. Et concordatur consonantia perfecta et consensu et connaturalitate et congregata inconfuse et indivisibiliter contenta. Transit enim perfecte totalitatis pax ad omnia existentia secundum simplicissimam ipsius et inconmixtam vivifice virtutis presentiam uniens omnia et coniungens extrema per media extremis secundum unam connaturalem et coniunctam amicitiam, et frui ipsa donans, et extremis omnis rei terminationibus, et omnia consentientia faciens unitatibus, idemptitatibus, unitionibus, congregationibus, indivisibili et videlicet divina pace stante et in uno omnia monstrante et per omnia perficiente et a propria ydemptitate non recedente. Procedit enim ad omnia et tradit omnibus se ipsam iuxta ipsorum proprietatem et supermanat habundatia pacifice fecunditatis et manet propter excessum unitionis tota ad totam et secundum totam se ipsam superunita.
+        </p>
+        <p>Quomodo autem, dicat aliquis, desiderant omnia pacem? Multa enim alteritate et discretione gaudent et non aliquando sponte velint quiescere. Et siquidem dicens hoc dicit alteritatem et discretionem uniuscuiusque existentium proprietatem et quod hanc neque unum existentium existens quod est velit aliquando perdere, non
+        quidem nec nos ad hos contradicemus. Set et hoc pacis desiderium esse enuntiamus. Omnia enim diligunt ad se ipsa et pacem habere et uniri et sua et que sunt suorum esse inmobilia et cadere non valentia et est munde singulorum proprietatis perfecta pax servativa providentiis ipsius pacem donantibus omnia non bellantia et inconfusa et ad se ipsa et ad se invicem salvans, et omnia instabili et indeclinabili virtute ad pacem sui ipsorum et inmobilitatem statuentes. Et si mota omnia non quiescere set moveri semper ipsarum motu velint et hoc desiderium est divine totorum pacis omnia in se ipsis non cadere valentia salvantis et omnium motorum proprietatem custodientis in eo quod mota ad se ipsa pacem habentia et eodem modo habentia operantur ea que sunt sui ipsorum.
+      </p>
+        <p>Si autem secundum casum a pace alterationem dicens conatur probare non esse omnibus amabilem pacem, maxime quidem quia nichil est existentium quod ab omni perfecte unitione ceciderit. Quod enim est omnino instabile et interminatum et incollocabile et indiffinitum, nec existens est nec in existentibus. Si autem istos dicit paci et pacis bonis inimicari qui litibus et furoribus et variationibus et instabilitatibus gaudent et istis obscuris ymaginibus pacifici desiderii tenentur, a passionibus multum moventibus inpugnati, et et istas sedare stulte desiderantss et arbitrantes adinpletione superfluentium pacem habere se ipsos, non consecutione delectationum se tenentium perturbatos. Quid dicat quidem aliquis de benignitate pacem effundente secundum Christum secundum quam non iam diximus bellum facere nec nobis ipsis nec aliis nec angelis set et cum ipsis divina secundum virtutem operabimur secundum providentiam Ihesu omnia in omnibus cooperantis et facientis pacem ineffabilem seculo prediffinitam et reconcliantis nos sibi ipsi in spiritu et per ipsum et in ipso patri? De quibus supernaturalibus donis in Tehologicis Ypotiposibus sufficienter dictum est, testimonium perhibente nobis et sancta eloquiorum inspiratione.
+        </p>
+        <p>Set quoniam et alibi me per epistolam interrogasti quid forte dicam per se esse, per se vitam, per se sapientiam, et ad te ipsum dixisti dubitasse, quomodo Deum aliquando quidem per se vitam dico aliquando autem per se vite substantificatorem, necessarium arbitratus sum, sancte Dei vir, et ab hac dubitatione in nobis te absolvere. Et primum quidem ut non multipliciter dicta et nunc assumam, non est contrarium per se virtutem aut pacis per se vitam Deum dicere, aut per se vite aut pacis aut virtutis substantificatorem. Hec enim quidem ex existentibus et maxime primo existentibus sicut causa omnium existentium dicitur. Illa autem sicut super omnia et etiam que prius sunt, superexistens supersubstantialiter.</p>
+        <p>Dicis autem, quid totaliter dicimus per se esse, aut per se vitam aut quecunque absolute et principaliter esse et ex Deo primo subsistere ponimus? Hoc autem dicimus, non est obliquum set rectum, et simplicem habens manifestationem. Non enim substantiam quandam divinam aut angelicam esse dicimus per se esse quod est causa quod sint omnia et ipsum esse substantiale est et principium et substantia et causa. Neque vite generativam aliam deitatem dicimus preter superdeam vitam et omnium quecunque vivunt et ipsius per se vite causam. Et ut colligendo dicamus non dicimus principales existentium et creativas substantias et personas quas et deos existentium et creatores per se facientes dixerunt. Quos vere et proprie non existentes neque ipsi sciverunt neque patres eorum, set per se esse et per se vitam et per se deitatem et divine et causaliter unum omnium et superprincipale et supersubstantiale principium et causam, participaliter autem datas ex Deo inparticipabili provisivas virtutes per se substantificationem, per se vivificationem, per se deitatem deificationem. Quibus existentiam iuxta proprietatem suam participantia et existentia et viventia et divina et sunt et dicuntur et alia similiter. Propter quod et primo ipsarum bonus substantificator dicitur esse, postea totorum ipsorum, particularium ipsorum, postea totaliter participantium ipsis, postea particulariter ipsum participantium.
+        </p>
+        <p>Et quid oportet de istis dicere quando quidem quidam divinorum virorum sanctorum magistrorum et ipsis per se bonitatis et deitatis substantificatricem dicunt superbonam et superdeam per se bonitatem, et deitatem, dicentes esse beneficum et deificum, ex Deo proveniens donum. Et per se pulchritudinem per se pulchrificam effusionem et totam et particularem pulchritudinem et totaliter pulchra et quecunque alia secundum eundem dicta sunt et dicentur monstrantia providentias et bonitates participatas ab existentibus ex Deo inparticipabili procedentes copiosa effusione et supermanantes ut diligenter omnium causa sit supra omnia et excedat omnino supersubstantiale et supernaturale existentia secundum quamcunque substantiam et naturam.</p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

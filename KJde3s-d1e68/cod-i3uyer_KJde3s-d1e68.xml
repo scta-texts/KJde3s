@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 1</title>
+        <author>Petrus Hispanus</author>
+        <editor>Alonso</editor>
+        <respStmt>
+          <name>Ana Ferreira</name>
+          <resp>TEI Encoding</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 1</title>
+          <date when="2019-07-01">July 1, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="A" n="cod-i3uy34">Alonso 1957</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-05-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+
+      </div>
+    </front>
+    <body>
+      <div>
+        <head> Capitulum 1</head>
+        <p>Nunc autem, o beate, post Theologicas Ypotiposes ad divinorum nominum reserationem, sicut est possibile, transibo. Est autem et nunc a nobis eloquiorum lex prediffinita veritatem de Deo dictorum nos asservare non in persuasibilibus humane sapientiae verbis sed in demonstratione a spiritu mote theologorum virtute, secundum quam ineffabilibus et ignotis ineffabiliter et ignote coniungimur secundum meliorem nostre rationabilis et intellectualis virtutis et operationis unitionem.
+        </p>
+        <p>Igitur universaliter non est audendum dicere aliquid nec etiam cogitare de supersubstantiali et occulta deitate preter ea que divinitus sanctis eloquiis nobis sunt expressa. Nam supersubstantialem scientiam ignorantie supersubstantialitatis que est super rationem et intellectum et substantiam ipsam, ipsi attribuere convenit tantum ad superius respicientes quantum thearchicoram eloquiorum radius se ipsum inmittit ad splendores superiores. Et simus circa divina temperantia et sanctitate constricti.
+        </p>
+
+        <p> Etenim si aliquid convenit omni sapienti et verissime theologie credere, secundum proportionem uniuscuiusque mentium revelantur divina et inspiciuntur thearchica bonitate, in salutari iustitia, a mensuratis et in mensuratione, sicut inconprehensibilem, ut decet Deum, segregante. Sicut enim inconprehensibilia et incontemplabilia sunt sensibilibus intelligibilia et hiis que in conpositione sunt et figura simplicia et infigurabilia, et formatis secundum corporum figuras incorporalium intangibilis et infigurabilis forme carentia, secundum eandem veritatis rationem superponitur substantiis que est supersubstantialis, et mentibus que est super mentem
+unitas, et omnibus deliberationibus est indeliberabile quod est super deliberationem, et ineffabile verbo omni quod est super verbum bonum unitas vivificans universam unitatem et supersubstantialis substantia et intellectus non intelligibilis est verbum non dicibile et irrationabilitas et non intelligibilitas et innominabilitas secundum nichil existentium existens, sicut super omnem substantiam et ipsum de se ipso proprie et scienter enuntiet.
+</p>
+<p>De hac igitur, sicut dictum est, supersubstantiali divinitate et occulta non est audendum dicere nec cogitare aliquid preter illa que divinitus nobis ex sacris eloquiis sunt expressa. Etenim sicut ipsa de se ipsa in eloquiis, ut decet, bona tradidit, ipsius quidem quicquid est scientia et contemplatio omnibus est invia existentibus, sicut ab omnibus supersubstantialiter segregata. Et multos theologorum invenies non solum sicut invisibilem ipsam et inconprehensibilem laudavisse sed inscrutabilem simul et investigabilem simul, sicut existente nullo vestigio eorum qui ad occultam ipsius infinitatem transierunt. Non tamen inconmunicabile est universaliter bonum nulli existentium sed in se ipso singulariter supersubstantialem collocans radium uniuscuiusque existentium proportionabilibus illuminationibus benigne superapparet et ad possibilem ipsius contemplationem et conmunionem et assimilationem extendit sanctas mentes
+  que ipsi, sicut est fas et ut decet sanctos, se inmittent nec ad superius quam convenienter data Dei apparitio superbe presumunt, nec ad inferius ex subiectione ad peius prolabuntur, sed firme et indeclinabiliter ad radium ipsius supersplendentem extenduntur et inconmensurato amore convenientium illuminationum cum reverentia sancta et caste et sancte alis elevantur.
+        </p>
+        <p>Has sequentes ierarchicas leges, que et totos gubernant supercelestium ordinum et substantiarum sanctos ornatus, quod quidem est super mentem et substantiam thearchie occultum, inscrutabilibus et sanctis mentis reverendis indicibilia autem casto silentio venerantes ad illucentes nobis in sanctis eloquiis splendores extendimur, et ab ipsis illuminamur ad thearchicos ymnos, ab ipsis supermundane illuminati et ad sanctas ymnorum enuntiationes figurati, ad videndum per ipsos conmensurate data nobis thearchica lumina et laudandum
+        principium universale sancte luminis apparitionis quod donat bonum, sicut ipsum de se ipso in sanctis eloquiis tradidit, sicut quod omnium est causa et principium et substantia et vita et decidentium ab ipsa revocatio et resurrectio: eorum autem, que ad deiformis corruptivum prolapsa sunt, revocatio et reformatio; eorum autem que secundum quandam conmotionem inmundam moventur, collocatio sancta, et stantium firmatio, et ad ipsam sursumactorum suscitativa manuductio; et eorum que illuminantur, illuminatio; et eorum que perficiuntur, perfectionis principatus; et eorum que deificantur thearchia; et eorum que simplificantur, simplicitas; et eorum que uniuntur, unitas principii universi supersubstantialiter et superprincipale principium et occulti, secundum quod est conveniens, bona traditio. Et, ut simpliciter dicatur viventium vita, existentium substantia, omnis vite et substantie principium et causa, propter bonitatem ipsius que deducit ad eam existentia et continet.</p>
+        <p>Hec a divinis eloquiis memoramus; et ut dicatur omnem substantiam theologorum hymnum inveniens ad bonos thearchie processus manifestative et laudative Dei nominationes dividentem. Unde fere in omni theologico negotio thearchiam videmus sancte laudatam sicut monadem quidem et unitatem propter simplicitatem supernaturalis inpardbilitatis, ex qua ut vivifica virtute unimur et divisibilibus nostris alternantibus supermundane conclusis, ad deiformem monadem congregamur et Dei inmitativam unitionem. Sicut trinitatem autem, propter trium personarum supersubstantialis fecunditatis manifestationem, ex qua paternitas omnis in celo et in terra nominatur. Sicut causam autem existentium, quoniam omnia ad esse deducta sunt propter eius substantificam bonitatem. Sapientem autem et pulchram, quoniam existentia omnia propriam naturam incorruptam servantia omni armonia divina et sancto decere sunt plena. Benignam autem differenter, quoniam nostris ad veritatem totaliter in una ipsius personarum conmunicavit, revocans ad se ipsam et reponens humanam extremitatem, ex qua ineffabiliter simplex Ihesus conpositus est, et presentationem tem-
+          poralem accepit eternus et intra nostram factus est naturam qui omnem ordinem secundum omnem naturam substantialiter excedit cum intransmutabili et inconfusa propriorum collocatione, et quecumque alia deifica lumina iuxta consequentiam divinorum eloquiorum nostrorum ducunt, occulta traditio manifestative nobis donavit.</p>
+       <p>Hec et nos docti sumus quidem nunc iuxta proportionem nostram per sancta velamina eloquiorum et thearchicarum traditionum, benignitate sensibilibus intelligibilia et existentibus supersubstantialia circunvelate et formatas et figuras non formalibus et figuralibus circunponente et supernaturalem et infigurabilem simplicitatem varietate divisibilium signorum et multiplicante et conponente.</p>
+       <p>Tunc autem quando incorruptibiles et inmortales erimus et christiformem et beatissimum consequemur finem semper cum Domino, secundum eloquium, erimus visibili quidem ipsius Dei apparitione in castissimis contemplationibus adimpleti, manifestatissimis circa nos splendoribus refulgente, sicut circa discipulos in illa divinissima transformatione. Intelligibili autem luminis donatione ipsius, inpassibili et inmateriali mente participantes et super mentem unitione ignotis et beatis inmissionibus superclarorum radiorum in diviniore inmitatione supercelestium mentium. Nam equales erimus angelis, ut veritas dicit eloquiorum, et filii Dei resurrectionis filii existentes.</p>
+       <p> Nunc autem, sicut nobis est possibile, propriis quidem ad divina signis utimur, ex istis rursus ad simplicem et unitam intelligibilium
+         miraculorum veritatem proportionaliter extendimur, et post omnem secundum nos deiformium unitionem, secantes nostras intellectuales operationes ad supersubstantialem radium, secundum quod est fas, nos inmittimus in quo omnes finis omnium cogitationum superineffabiliter preextiterunt, quem neque cogitare possibile est neque totaliter aliquo modo contemplari propter hoc quod ipse ab omnibus est segregatus et superignotus; et omnium quidem substantialium cogitationum et virtutum terminationes simul omnes in se ipso supersubstantiatiter preaccepit et super omnes celestes mentes inconprehensibili virtute est collocatus. Si enim cognitiones omnium existentium sunt et si existentiatium sunt et si existentia finem habent qui est super omnem substantiam et ab omni cognitione est segregatus. Et quidem si melior est omni sermone et omni cognitione et super mentem universaliter et super omnem substantiam collocatur omnium quidem existens apprehensivus et conprehensivus et preapprehensivus. Omnibus autem universaliter ipse est inconprehensibilis et nec eius est nec fantasia neque opinio nec nomen nec sermo nec tactus nec scientia. Quomodo de divinis nominibus a nobis tractabitur sermo invocabili et supernominabili et supersubstantiali divinitate demonstrata?
+        </p>
+       <p>Sed quod diximus quando Theologicas Ypotiposes exposuimus, unum ignotum supersubstantiale ipsum bonum quod est, trinam unitatem dico, quod est simul Deus et simul bonum, neque dicere neque cogitare est possibile. Set et sanctarum virtutum angelis con-
+         venientes unitiones quas sive inmissiones sive susceptiones oportet dicere, superignote et superclare bonitatis, ineffabiles sunt et ignote et solis ipsis inerunt qui super angelicam cognitionem digni habiti sunt ipsis angelis. Istis deiformes ad angelorum inmitationem, sicut est possibile, unite mentes, quoniam super omnis intellectualis operationis quietem talis est deificatarum mentium ad suppremum lumen unitio, laudant ipsum proprie maxime per ablationem a cunctis existentibus. Hoc vere et supernaturaliter illuminatione docti ex beatissima ad ipsum unione quod omnium quidem existentium causa, ipsum autem nichil, ut ab omnibus supersubstantialiter segregatum. </p>
+       <p>Igitur supersubstantialem quidem thearchicam quodcumque est superbonitatis superessentia neque ut rationem aut virtutem nec sicut mentem aut vitam aut substantiam laudare est possibile nulli eorum quotcumque sunt veritatis amatores que est super omnem veritatem. Sed sicut ab omni habitu, motu, vita, fantasia, opinione, mente, verbo, deliberatione, intellectu, substantia, statione, collocatione, unitione, fine, infinitate, universis quecumque existentia sunt, excellenter segregata. Quoniam autem sicut bonitatis essentia per ipsum esse omnium existentium est causa boni principem thearchie providentiam ex omnibus creatis laudare convenit. Quoniam et circa
+         ipsam omnia et ipsius causa et ipsa est ante omnia et omnia in ipsa constiterunt et esse hanc est totorum deductio et substantia et omnia ipsam desiderant, intellectualia quidem et rationalia cognitive. Istis autcm subiecta sensibiliter et alia secundum unificum motum aut substantialem et habitudinariam aptitudinem. </p>
+       <p>Hec igitur scientes theologi et sicut innominabilem ipsam laudant et ex omni nomine. Innominabilem quidem sicut quando dicunt thearchiam ipsam in una misticarum Dei apparitionum significative increpare eum qui dixit quod est nomen tuum et sicut ab omni cognitione ipsum abigentem dicere: Tu quare interrogas nomen meum quod est mirabile. Nunquid autem non hoc vere mirabile nomen quod est super omne nomen quod est innominabile, quod est collocatum super omne nomen, quod nominatur sive in hoc seculo sive in futuro? Multorum autem nominum sicut quando rursus ipsam inducunt dicentem: Ego sum qui sum, vita, lumen, Deus, veritas, et quando ipsi periti divinitatis omnium causa multis nominibus ex multis causis laudant, sicut bonum, sicut pulchrum, sicut sapientem, sicut diligibilem, sicut deum deorum, sicut dominum dominorum, sicut sanctum sanctorum, sicut eternum, sicut existentem, sicut seculorum causam, sicut vite largitorem, sicut sapientiam, sicut mentem, sicut rationem, sicut cognitionem, sicut prehabentem omnes thesauros universe cognitionis, sicut virtutem, sicut potentem, sicut regem regnantium, sicut veterem dierum, sicut sine senectute et invariabilem, sicut salvatorem, sicut iustitiam, sicut sanctificationem, sicut in magnitudine cuncta excedentem, et sicut in aura subtili.
+       </p>Et quidem et in mentibus ipsum dicunt, et in animabus, et in corporibus, et in celo, et in terra, et simul in eodem eundem, mundanum, supermundanum, supercelestem, supersubstantialem, solem, astrum, ignem, aquam, spiritum, rorem, nubem, ipsum lapidem et petram, et omnia existentia, et nichil existentium.
+       <p>
+        </p>
+       <p>Ita igitur omnium cause et super omnia cxistenti, et innominabile conveniet et omnia existentium nomina, ut diligenter sit totorum regnum et circa ipsam omnia sint et ab ipsa sicut causa, sicut principio, sicut fine segregata et ipsa secundum eloquium sit omnia in omnibus; et vere laudatur omnium substantia principalis et perfectiva et custodia et cibus et ad ipsum conversiva et hec unitive et con-
+         municabiliter segregate. Non enim continentie aut vite aut perfectionis solum causa, ut a sola hac aut illa bonitas que est super omne nomen nominetur, sed omnia simpliciter et incircumfinite in se ipsa existentia preaccepit perfectissimis unius eiusdem et omnium cause providentie bonitatibus et ex existentibus universis convenienter laudatur et nominatur. </p>
+      <p>Et quidem non istas solas theologi Dei nominationes conmendant a perfectis et particularibus providentiis aut provisis. Set est quando a quibusdam apparitionibus divinis in sanctis templis aut alibi magistros aut prophetas illuminantibus secundum alias et alias causas et virtutes nominant supersplendentem et supernominabilem bonitatem et formas ipsi et figuras humanas aut igneas aut electrinas circunponunt et oculos ipsius et aures et cincinnos et vultus et manus et spinas et alas et brachia et dorsa et pedes laudant et coronas et thronos et calices et crateres ipsi et alia quedam mistica circunponunt. De quibus in symbolica contemplatione secundum virtutem dicemus.</p>
+      <p>Nunc autem quecumque sunt presentis negotii, ex eloquiis, congregantes et sicut quodam canone dictis utentes et ad ipsa inspicientes et ad reserationem intelligibilium Dei nominationum procedamus. Et quod semper, secundum omnem theologiam, ierarchica lex inducit, inspectiva deliberatione inspiciamus, ut proprie dicantur quibus Deus appareat, contemplationes. Et aures sanctas sanctarum Dei nominationum reserationibus apponamus in sanctis sancta secundum divinam traditionem collocantes et ipsa ab indoctorum risibus et delusionibus auferentes, magis autem illos ipsos, si totaliter sunt tales quidem homines, ab inpugnatione Dei in hoc liberantes.</p>
+     <p>Igitur tibi quidem hec custodire utile o pulcher Thymothee secundum sanctissimam memorationem et nec dicibilia nec exportabilia divina facere ad indoctos. Mihi autem det Deus ut decet Deum laudare invocabilis et innominabilis deitatis deificas multas nominationes et non auferat verbum veritatis de ore meo. </p>
+
+          </div>
+    </body>
+  </text>
+</TEI>
